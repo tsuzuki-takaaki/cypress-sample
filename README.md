@@ -1,6 +1,6 @@
 # Command
 ```sh
-  % npx cypress run --component
+  % npm test
 ```
 
 ↓ テンプレ
