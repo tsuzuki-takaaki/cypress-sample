@@ -23,6 +23,6 @@
     /* Types */
     //"types": ["cypress"] // https://github.com/vuejs/vue-cli/issues/4239
   },
-  "include": ["src", "./**/*.ts"], // TODO
+  "include": ["src", "./**/*.ts", "spec"], // TODO
   "references": [{ "path": "./tsconfig.node.json" }]
 }
